@@ -15,13 +15,13 @@ cd frontend
 install dependencies
 
 ```
-npm install
+pnpm install
 ```
 
 start the frontend(default at `localhost:5173`)
 
 ```
-npm run dev
+pnpm dev
 ```
 
 ### Backend
